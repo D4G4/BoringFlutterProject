@@ -3,7 +3,6 @@ import 'package:url_launcher/url_launcher.dart' as urlLauncher;
 import 'package:boring_flutter_project/source_gen_code__parsers/json_parsing.dart';
 import 'dart:async';
 import 'package:http/http.dart' as http;
-import 'package:intl/date_symbol_data_local.dart';
 import 'package:intl/intl.dart';
 
 class MyHomePage extends StatefulWidget {
